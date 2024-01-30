@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  @apply bg-primary text-primary
+}
+
+.rounded-div {
+  @apply rounded-2xl bg-primary px-2 max-w-[1140px] w-full mx-auto
+}
+
+
+
+*{
+  --color-bg-primary:  #19a719;
+  --color-bg-secondary: #283141;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #e2e8f0;
+  --color-text-accent: #68e4cd;
+  --color-bg-input: #4a5361;
+  --color-bg-button: #3189c4;
+  --color-bg-table: #252f3d;
+}
+
+.spinning-container {
+  perspective: 800px;
+  transform-style: preserve-3d;
+}
+
+.spinning-image { 
+  height: auto;
+  transform-origin: center;
+  animation: spin 4s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b500748e.css",
+    "main.js": "/static/js/main.a3a2919c.js",
+    "static/media/oldxbox360-removebg.png": "/static/media/oldxbox360-removebg.842cabba774fdf4e8f65.png",
+    "static/media/xboxslim-removebg.png": "/static/media/xboxslim-removebg.d98dad4af2a454434e68.png",
+    "static/media/360mic-removebg.png": "/static/media/360mic-removebg.5aeb6eb81c0837f09aaf.png",
+    "static/media/telegram.png": "/static/media/telegram.720764bb8b6b24ce10c2.png",
+    "static/media/Xbox_360_logo.png": "/static/media/Xbox_360_logo.a8421678bcb8b89da57b.png",
+    "static/media/x-removebg.png": "/static/media/x-removebg.3eeb603be50e6dccae84.png",
+    "index.html": "/index.html",
+    "main.b500748e.css.map": "/static/css/main.b500748e.css.map",
+    "main.a3a2919c.js.map": "/static/js/main.a3a2919c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b500748e.css",
+    "static/js/main.a3a2919c.js"
+  ]
+}
